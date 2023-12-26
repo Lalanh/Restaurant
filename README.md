@@ -1,11 +1,11 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP <FinalProject>
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: <Nguyen Thi Lan Anh>
+- Member 2: <Ha Thi Hong Anh>
+- Member 3: <Nguyen Hoang Anh>
+- Member 4: <Tran Hoang Anh>
 
 ## Starting server
 
